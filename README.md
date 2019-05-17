@@ -1,0 +1,1 @@
+Simple flask app with a one page.
