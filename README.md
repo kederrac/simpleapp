@@ -1,1 +1,1 @@
-Simple flask app with a one page.
+Simple flask app with one page.
